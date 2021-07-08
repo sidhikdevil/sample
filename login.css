@@ -1,0 +1,16 @@
+html{
+    background-image: url(3.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+h1{
+color:red;
+
+
+}
+form{
+
+color:green}
